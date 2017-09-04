@@ -8,5 +8,5 @@ adding more stuffs
 
 more stuffs, on branch updates
 
-stuffs causing trouble!
+Added the repository to github!
 
